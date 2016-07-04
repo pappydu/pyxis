@@ -46,3 +46,9 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # rails factor
 gem 'rails_12factor', group: :production
+
+# installs devise gem 
+gem 'devise'
+
+#print ruby objects with colour and indentation
+gem 'awesome_print'
