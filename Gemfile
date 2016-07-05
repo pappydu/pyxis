@@ -52,3 +52,12 @@ gem 'devise'
 
 #print ruby objects with colour and indentation
 gem 'awesome_print'
+
+#devise-async
+gem 'devise-async'
+
+#bootstrap sass
+gem 'bootstrap-sass', '~> 3.3.6'
+
+#installs simple form
+gem 'simple_form'
